@@ -1,0 +1,8 @@
+
+
+
+
+
+        "ip":"FRIENDSSMP6Ifn.aternos.me",
+         "port":"50781:,
+         "name":"Bot"
